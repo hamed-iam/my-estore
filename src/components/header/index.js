@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.scss';
-import Logo from '../../assets/leaf-logo-green-leaves-9b7136f555df2e28f422771599cb0739.png';
+import Logo from '../../assets/cover.png';
 
 const Header = (props) => {
   return (
